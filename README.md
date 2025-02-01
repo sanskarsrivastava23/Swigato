@@ -22,8 +22,8 @@ State Management: Redux Toolkit
 
 **<h2>Installation & Setup</h2>**
 **<h3>1️⃣ Clone the Repository</h3>**
-**git clone https://github.com/sanskarsrivastava23/Swigato.git
-cd Swigato**
+**git clone https://github.com/sanskarsrivastava23/Swigato.git**
+**cd Swigato**
 
 **<h3>2️⃣ Install Dependencies</h3>**
 **npm install**
@@ -31,4 +31,5 @@ cd Swigato**
 **<h3>3️⃣ Start the Development Server</h3>**
 **npm run dev**
 
-This will start the app in development mode.
+
+**<h3>This will start the app in development mode.</h3>**
