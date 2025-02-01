@@ -1,5 +1,4 @@
-#**Swigato - Full-Stack Food Delivery Platform 🍔🚀**
-
+<h1>**Swigato - Full-Stack Food Delivery Platform 🍔🚀**</h1>
 **Overview**
 Swigato is a full-stack food delivery platform built with React (Vite), offering end-to-end functionality for seamless order placement and checkout in a test environment. The project includes essential pages such as:
 🏠 Home – Browse restaurants and food options.
